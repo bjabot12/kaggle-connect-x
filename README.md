@@ -1,3 +1,6 @@
-# kaggle-connect-x
+## Kort git-demo med ConocoPhillips
 
-## Test of pulling from origin
+- repository (løsninger)
+- branch (versjoner og/eller miljø)
+- commit (saves eller checkpoints)
+- pull requests (promoteringsdokument)
